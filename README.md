@@ -1,7 +1,7 @@
 # 📊 Store Sales Analysis Dashboard
 
 ## 📌 Overview
-This project analyzes A Store sales data using Microsoft Excel to uncover sales trends, customer behavior, and business performance through an interactive dashboard.
+This project analyzes Store's sales data using Microsoft Excel to uncover sales trends, customer behavior, and business performance through an interactive dashboard.
 
 ## 🎯 Objectives
 - Analyze overall sales performance
