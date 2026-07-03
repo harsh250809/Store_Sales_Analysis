@@ -1,2 +1,79 @@
-# Store_Sales_Analysis
-Interactive Excel dashboard analyzing Store sales data using data cleaning, Pivot Tables, Pivot Charts, and business insights.
+# 📊 Store Sales Analysis Dashboard
+
+## 📌 Overview
+
+This project analyzes Vrinda Store sales data using Microsoft Excel to uncover sales trends, customer behavior, and business performance through an interactive dashboard.
+
+---
+
+## 🎯 Objectives
+
+- Analyze overall sales performance
+- Identify top-performing states
+- Understand customer demographics
+- Track monthly sales trends
+- Generate actionable business insights
+
+---
+
+## 🛠️ Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Data Cleaning
+
+---
+
+## 📈 Key Performance Indicators (KPIs)
+
+- Total Sales
+- Total Orders
+- Average Order Value
+- Monthly Sales Trend
+- Top States
+- Top Categories
+- Sales Channel Performance
+
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+---
+
+## 💡 Key Insights
+
+- Women contributed a higher share of total sales.
+- Maharashtra generated the highest revenue.
+- Amazon was the best-performing sales channel.
+- Adult customers represented the largest customer segment.
+- March recorded the highest sales.
+
+---
+
+## 🚀 Business Recommendations
+
+- Increase inventory in high-performing states.
+- Focus marketing campaigns on women customers.
+- Strengthen top-performing sales channels.
+- Promote high-selling product categories.
+
+---
+
+## 📂 Repository Contents
+
+- 📄 Vrinda Store Dashboard.xlsx
+- 🖼️ dashboard.png
+- 📝 README.md
+
+---
+
+## 👤 Author
+
+**Harshvardhan Singh**
+
+Aspiring Data Analyst | Chemical Engineering Student at NIT Calicut
