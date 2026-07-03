@@ -44,13 +44,13 @@ This project analyzes A Store sales data using Microsoft Excel to uncover sales 
 - Promote high-selling product categories.
 
 ## 📂 Repository Contents
-- 📄 `Store Dashboard.xlsx`
+- 📄 `Store Sales Data Analysis.xlsx`
 - 🖼️ `dashboard.png`
 - 📝 `README.md`
 
 ## 🔧 How to Use
 1. Clone or download this repository
-2. Open `Vrinda Store Dashboard.xlsx` in Microsoft Excel
+2. Open `Store Dashboard.xlsx` in Microsoft Excel
 3. Use slicers (Month, Channel, Category) to filter data interactively
 4. Explore pivot charts for detailed insights
 
